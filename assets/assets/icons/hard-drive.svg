@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.887" height="18.55" viewBox="0 0 22.887 18.55">
+  <g id="hard-drive" transform="translate(-1.4 -3.4)">
+    <line id="Line_134" data-name="Line 134" x1="21.688" transform="translate(2 12.675)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <path id="Path_137" data-name="Path 137" d="M5.741,5.2,2,12.675v6.506A2.169,2.169,0,0,0,4.169,21.35h17.35a2.169,2.169,0,0,0,2.169-2.169V12.675L19.946,5.2A2.169,2.169,0,0,0,18.005,4H7.682A2.169,2.169,0,0,0,5.741,5.2Z" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <line id="Line_135" data-name="Line 135" x2="0.011" transform="translate(6.338 17.013)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <line id="Line_136" data-name="Line 136" x2="0.011" transform="translate(10.675 17.013)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+  </g>
+</svg>
